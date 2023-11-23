@@ -12,3 +12,6 @@ select * from LOGIN order by id;
 select * from post_likes order by id;
 select * from post order by post_id;
 select * from post_tags order by id;
+
+
+-- Tushar Singh
