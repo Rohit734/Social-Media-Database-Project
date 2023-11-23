@@ -1,0 +1,200 @@
+id,comment_text,post_id,user_id
+1,"great man",26,6
+2,"looking greate bhai",12,17
+3,"nice place keep enjoying",29,15
+4,"great bhai meetu soon ",49,21
+5,"aag lga di bhai",37,34
+6,"briallant keep working",3,34
+7,"soon will join you all",86,21
+8,"nice man !! loved it",81,28
+9,"bawnadar aayega abb ",83,48
+10,"boht tezz ho rhe ho ",38,23
+11,"bade acche ho beta",92,27
+12,"rakh neeche rakh teri toh",83,7
+13,"kaise ho bro",5,50
+14,"aag lga di h bss fire extinguisher bulana pdega",42,4
+15,"ek kahani h jo sabko sunnani h jakne wako ki toh rooh bhi jaalani h",59,25
+16,"mast h bhai , mill tabb btata hu kon mast h ",62,31
+17,"sahi lgg rha h bss ",27,8
+18,"I think this is the best I’ve seen till now.",83,36
+19," Not enough for me, you are everything.",34,13
+20," Just when I couldn’t love you more. You posted this pic and my jaw dropped to the floor.",81,46
+21,"You are a symbol of beauty.",77,38
+22," Surely you are the most beautiful woman alive, the most that I’ve seen.",96,19
+23,"You mean the world to me.",58,10
+24,"The word pretty is worthless without you.",64,44
+25,"You are the definition of Beauty",81,4
+26,"Flawless outstanding eccentric lovely beauty.",36,20
+27,"The stars, the moon, and the sun are minor to me since you sparkle brighter than all of them.",45,25
+28,"You are graceful.",21,47
+29," Surely you would have been arrested if looking immensely beautiful was a crime.",3,46
+30,"You’re an incredibly stunning, a really pretty, beautiful woman.",51,39
+31," I guess this is your best look, you look beautiful in this outfit.",37,47
+32,"You look mesmerizing.",68,22
+33,"I wonder how cute you would be looking when you sleep.",6,35
+34,"You are so much lovely.",29,47
+35,"I love your curly hair.",2,14
+36,"Your dressing sense is appreciable.",39,41
+37," You are the sweetest girl I have ever seen.",40,33
+38,". I love that straight hair of yours.",79,29
+39,"You are pleasing.",45,35
+40,"Just ‘WOW’ for your natural beauty.",41,33
+41,"You are cute.",18,49
+42,"I love how comfortable you are in your world.",45,14
+43,"You are very much adorable.",39,5
+44,"You look even more pretty without makeup.",47,45
+45,"I feel so happy to be with you.",85,13
+46,"You are my safest place.",51,35
+47,"You look beautiful in that dress.",99,15
+48,". I wish I had your makeup.",5,23
+49,"You are stunning.",78,14
+50,". That natural beauty tho.",25,14
+51,"You have the most beautiful, sparkling eyes.",86,46
+52,"You have the most beautiful smile.",70,10
+53,". Your sense of fashion is great.",70,22
+54," I like your hair.",25,32
+55,". You look more beautiful than in the photo.",24,25
+56," You look stunning.",94,15
+57,"You’re classy.",89,34
+58," You’re very trendy",100,1
+59,Landscape/Scenery:,75,40
+60,"Great shot!",82,29
+61,"Nice shot!!",93,6
+62,"Love the view.",74,31
+63,"Did you have fun up there?",46,11
+64,"Selfie/picture of themselves:",13,25
+65,"Looking good!",31,7
+66,Pretty/beautiful!,57,44
+67,Handsome!,58,39
+68,"OH MAH GOSH!!",35,7
+69,"?????? (three heart-eyed emojis)",20,43
+70,"Sexy pose of themselves:",98,31
+71,MESSY!,84,36
+72,OMG!,29,42
+73,"OMG! Be my wife or dad already!!",100,35
+74,Hot,3,7
+75,"?????? (three heart-eyed emojis)",44,7
+76,"Wtf, how are you so pretty/handsome?",42,19
+77,"Wow!! In love!!",32,19
+78,Classic,59,6
+79,"Picture of their outfit or OOTD (outfit of the day):",99,9
+80,"Ou la la",25,32
+81,Gorgeous!!,12,25
+82,"Love your outfit!!",71,1
+83,"Looking good, man.",2,33
+84,"A picture of their pet/pets:",26,20
+85,"Soooooo cute!!",48,44
+86,cute!,18,25
+87,"lovely pet you got there!",22,25
+88,"An inspirational quote:",36,48
+89,"Inspired! Thanks for the share.",66,12
+90,"Needed that, thanks!",11,35
+91,"I agree/disagree.",13,21
+92,Inspirational,94,13
+93,"A picture of their family or children:",28,26
+94,"Lovely children.",29,20
+95,"Adorable kids, you got there!",76,20
+96,"They will grow up so fast!",6,23
+97,"I remember when they were X small!! Time flies by to fast!",80,24
+98,"A picture of their meal:",27,18
+99,"Looks delish! Did you cook that?!?",5,30
+100,"Yummy in my tummy. Yum!",87,15
+101,Enjoy!!,18,16
+102,"??????(the drooling mouth emoji)",73,5
+103,"Death of a loved one:",30,31
+104,"Sorry for your loss. My condolences go to you and your family.",26,37
+105,"Rip (person’s name).",80,49
+106,"Sorry for your loss, friend. If you need to talk, I’m always there for you.",48,43
+107,"My condolences.",56,5
+108,Anniversary:,66,50
+109,Congrats!,92,15
+110,"Congratulations on your X years of marriage/engagement!!",86,49
+111,"Woo!! Congrats newlywed!",26,44
+112,"I’m so happy for you.",16,24
+113,"Great shot!!",60,18
+114,"Clean shot!!",53,26
+115,"Crisp shot man.",88,11
+116,"I love the aesthetics of this picture.",39,13
+117,"The bookeh is dope",52,26
+118,"Great tones man",72,41
+119,"This one is classic",83,25
+120,"This one is fire",39,3
+121,"great concepts.",58,40
+122,"Beautiful picture, love the colors.",30,13
+123,"Woow!! Hands down!!",45,27
+124,"This is purely magic.",18,36
+125,"Your content is amazing.",19,6
+126,"Nice shot… etc etc :)",21,29
+127,"Your beauty is irresistible!!",49,25
+128,"You look energetic.",13,14
+129,"Impressive picture.",100,20
+130,"You look strong and confident.",95,49
+131,"This picture is lit!!",20,9
+132,"Adorable picture.",59,45
+133,"Your smile makes me Happy.",5,39
+134,"Looking Gorgeous .",83,43
+135,"This picture made my day.",59,45
+136,"Your beauty has no boundaries.",3,12
+137,"My word can’t describe your beauty!!",67,22
+138,"Your eyes sparkle like something I've never seen before.",27,8
+139,"Handsome hunk",35,15
+140,"That beard tho (if you go in for details)",86,50
+141,"That's dope",69,39
+142,"Nailed it",62,48
+143,"My squad",69,19
+144,"High af",67,11
+145,Awesome,4,40
+146,Bromantic,42,11
+147,Hero,33,15
+148,"This boy is mine",94,18
+149,"My man",93,36
+150,"I own this male",49,8
+151,"He + me = forever",7,18
+152,"You mean the world to me",85,42
+153,"Cant get my eyes off",16,26
+154,"In nature, light creates the color. In the picture, color creates the light.",44,41
+155,"NICE GREAT",60,47
+156,"The beauty has no boundaries in this picture.",43,9
+157,"SUPER ",23,31
+158,"Your beauty is irresistible.",71,43
+159,"ADORABLE CHILL LIFE",83,30
+160,"Such a charming picture.",11,40
+161,"CHAL BE HERO",96,39
+162,"Elegant picture.",30,42
+163,"NICE PLACE AND WATVH",41,47
+164,"My words are less to describe this picture.",49,32
+165,FDSAFDS,22,1
+166,"Beauty lies within for those who choose to see.",33,48
+167,BASDHIYAYY,3,18
+168,"The power of beauty lies within the soul.",29,6
+169,"KICKASS LOKK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",15,23
+170,"This picture is worth a thousand words.",41,47
+171,"GREAT TO SEE U ALIVE ",8,33
+172,"Beauty is power; a smile is its sword.",1,24
+173,"MSRJAA AJJJRJKLFDSA",68,41
+174,"This place looks exotic.",2,46
+175,"DUBAI IS SLIVWE",61,36
+176,"I love how vibrant colors are in the picture.",10,18
+177,"GOOOD DATYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",38,20
+178,"Such a scenic view ,looks great.",64,49
+179,"WONDERFUL IMORESSIVE",69,16
+180,"Impressive picture.",4,28
+181,"AAGT LGADI BHAI MAJA AA GYA ",78,39
+182,"Adorable picture and Your smile makes me Happy.",42,30
+183,"such a nice cute humbke kind gentke face",1,1
+184,"Looking Gorgeous and This picture made my day. ",61,1
+185,"Never seen a selfie of yours that I don't like. ",29,48
+186,"You are the coolest. ",97,27
+187,"You are the coolest. ",69,19
+188,"You are the coolest. ",25,15
+189,"You are the coolest. ",66,23
+190,"Friends forever. ",6,5
+191,"They say love is beautiful, but I say friendship is better. ",13,9
+192,"AAGT LGADI BHAI MAJA AA GYA  ",26,32
+193,"Impressive picture. ",72,39
+194,"MSRJAA AJJJRJKLFDSA ",23,31
+195,"COOL PIC ",58,4
+196,"You are the coolest. ",68,34
+197,"xing of public record ",93,48
+198,"GREAT JOB ",10,6
+199,"GOOOD DAY !!!!!!!!!!!!!!!!!!!! ",98,46
