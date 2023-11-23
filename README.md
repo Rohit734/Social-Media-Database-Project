@@ -54,3 +54,6 @@ To visualize and analyze the insights generated from the Social Media Database, 
   - Determine the user who uploaded the maximum number of videos and photos, including their sizes.
 
 ## Contributors
+- Rohit Pradhan
+- Rishab sen
+- Tushar Singh
