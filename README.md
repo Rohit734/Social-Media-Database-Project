@@ -17,17 +17,17 @@ To visualize and analyze the insights generated from the Social Media Database, 
 ### Insights Included:
 - User Demographics: Explore user distribution based on demographics.
 - Follower Analytics: Analyze follower growth and engagement.
-- Content Interaction: Visualize likes, comments, and other content interactions.
-- Hashtag Trends: Track popular hashtags and user engagement.
+- Content Interaction: visualize likes, comments, and other content interactions.
+- Hashtag Trends: Track popular hastags and user engagement.
 - Media Consumption: Understand the consumption patterns of images and videos.
 - **Total Number of Device User Logins:**
-  - Analyze the total number of logins per device used by users.
+  - Analyze the total number of logins per device used by user.
 
 - **Total Number of Posts per User:**
   - Find the total number of posts per user or identify the user with the maximum number of posts.
 
 - **Follower Count:**
-  - Explore follower counts for each user.
+  - Explore  follower counts for each user.
 
 - **Total Count of Hashtags Followed:**
   - Identify the total count of hashtags followed by users.
