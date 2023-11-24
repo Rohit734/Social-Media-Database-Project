@@ -1,7 +1,7 @@
 # Social-Media-Database-Project
 ## About
 
-Welcome to the Social Media Database Project! This project aims to create a robust structure for a social media database that can seamlessly connect to a frontend interface. We manage the data of multiple users, including their followers, interests, and various public activities on the social media platform.
+Welcome to the Social Media Database Project! This project aims to create a robust structure for a social media database that can seamlessly connect to a frontend interface. We manage the data of multiple users, including their followers, interests, and various public activities on the Social media platform.
 
 ### Features:
 
