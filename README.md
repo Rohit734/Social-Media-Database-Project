@@ -2,20 +2,25 @@
 
 
 ## Table of Contents
-- [Problem Statement](#problem-statement)
 - [About](#about)
-  - [Features](#features)
+- [Project Objectives](#project-objectives)
+- [Features](#features)
 - [Power BI Dashboard](#power-bi-dashboard)
-  - [Insights Included](#insights-included)
+- [Insights Included](#insights-included)
 - [Contributors](#contributors)
 
-## Problem Statement
-
-In the era of social media, the need for a well-organized and efficient database system is paramount. Social media platforms generate vast amounts of data daily, ranging from user interactions and content uploads to trends and preferences. Managing and analyzing this data is crucial for enhancing user experience, providing personalized content, and improving overall platform performance.
 
 ## About
 
 Welcome to the Social Media Database Project! This project aims to create a robust structure for a social media database that can seamlessly connect to a frontend interface. We manage the data of multiple users, including their followers, interests, and various public activities on the Social media platform.
+
+
+## Project Objectives
+
+1. Design and implement a robust database schema that efficiently stores social media-related data.
+2. Develop SQL queries to establish clear connections between different activities on the social media platform.
+3. Create a Power BI dashboard for visualizing key insights derived from the database.
+4. Provide detailed analytics on user engagement, content interactions, and media consumption patterns.
 
 ### Features:
 
@@ -39,6 +44,5 @@ To visualize and analyze the insights generated from the Social Media Database, 
 
 ## Contributors
 - <a href="https://github.com/Rohit734"> Rohit Pradhan</a>
-- Rohit Pradhan 
-- Rishab Sen
-- Tushar Singh
+- <a href="https://github.com/Riku1014"> Rishab Sen</a>
+- <a href="https://github.com/tushii2000"> Tushar Singh</a>
