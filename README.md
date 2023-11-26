@@ -43,7 +43,7 @@ To visualize and analyze the insights generated from the Social Media Database, 
 - Content Interaction: Visualize likes, comments, and other content interactions.
 - Hashtag Trends: Track popular hashtags and user engagement.
 - Media Consumption: Understand the consumption patterns of images and videos.
-
+file:///Users/rohitpradhan/Desktop/Screenshot%202023-11-26%20at%206.35.28%E2%80%AFPM.png
 ## Contributors
 - <a href="https://github.com/Rohit734"> Rohit Pradhan</a>
 - <a href="https://github.com/Riku1014"> Rishab Sen</a>
