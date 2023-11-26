@@ -38,6 +38,7 @@ To visualize and analyze the insights generated from the Social Media Database, 
 - Media Consumption: Understand the consumption patterns of images and videos.
 
 ## Contributors
-- [Rohit Pradhan](#https://github.com/Rohit734)
+- <a href="https://github.com/Rohit734"> Rohit Pradhan</a>
+- Rohit Pradhan 
 - Rishab Sen
 - Tushar Singh
