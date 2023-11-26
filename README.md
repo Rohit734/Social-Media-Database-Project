@@ -44,6 +44,9 @@ To visualize and analyze the insights generated from the Social Media Database, 
 - Hashtag Trends: Track popular hashtags and user engagement.
 - Media Consumption: Understand the consumption patterns of images and videos.
 
+## Final report
+<img width="1159" alt="Screenshot 2023-11-26 at 6 35 28 PM" src="https://github.com/Rohit734/Social-Media-Database-Project/assets/85367563/eb2827a3-5599-4096-80dc-c780f7b5859d">
+
 ## Contributors
 - <a href="https://github.com/Rohit734"> Rohit Pradhan</a>
 - <a href="https://github.com/Riku1014"> Rishab Sen</a>
